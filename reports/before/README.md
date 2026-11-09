@@ -1,4 +1,4 @@
-# Original Parking Lot System — Before Code Analysis
+# Original Parking Lot System - Before Code Analysis
 
 ---
 
